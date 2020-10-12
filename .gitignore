@@ -7,6 +7,9 @@ cmake-build-*/
 # File-based project format
 *.iws
 
+# Node modules
+node_modules
+
 #veebimajutuse huinaa
 elkdata_redirect_http_to_https_302
 elkdata_redirect_www_to_nonwww_302
